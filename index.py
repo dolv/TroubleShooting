@@ -36,7 +36,7 @@ print """\
 <html>
 <body>
 """
-print ("<h2>Hello, <div class=\"bold\">{}</div>, build number is <div class=\"bold\">{}</div></h2>".format(keyword, bld_no))
+print ("<h2>Hello, <div class=\"bold\">{}</div>, current build number is <div class=\"bold\">{}</div></h2>".format(keyword, bld_no))
 
 print """\
 </body>
